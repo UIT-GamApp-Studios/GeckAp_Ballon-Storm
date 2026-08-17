@@ -1,6 +1,9 @@
 # GeckApp: Ballon Storm
 
 Game mẫu Unity 2D (dạng bắn súng cuộn ngang – *shoot 'em up*) được sử dụng trong lớp **Trải nghiệm Phát triển Game** thuộc chương trình hợp tác **[Algo BootCamp X GamApp]**, giúp học viên làm quen với quy trình phát triển game từ asset đến gameplay hoàn chỉnh.
+<p align="center">
+  <img src="DSC01301.JPG" alt="Background" width="680">
+</p>
 
 - **Engine:** Unity `6000.2.12f1` (Unity 6)
 - **Render Pipeline:** Universal Render Pipeline (URP)
